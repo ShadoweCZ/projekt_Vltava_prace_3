@@ -1,0 +1,59 @@
+<PAMDataset>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="COMPRESSION">JPEG</MDI>
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+    <MDI key="SOURCE_COLOR_SPACE">YCbCr</MDI>
+  </Metadata>
+  <Metadata domain="xml:ESRI" format="xml">
+    <GeodataXform xsi:type="typens:ProjectiveXform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:typens="http://www.esri.com/schemas/ArcGIS/10.6">
+      <SpatialReference xsi:type="typens:ProjectedCoordinateSystem">
+        <WKT>PROJCS["S-JTSK_Krovak_East_North",GEOGCS["GCS_S_JTSK",DATUM["D_S_JTSK",SPHEROID["Bessel_1841",6377397.155,299.1528128]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Krovak"],PARAMETER["False_Easting",0.0],PARAMETER["False_Northing",0.0],PARAMETER["Pseudo_Standard_Parallel_1",78.5],PARAMETER["Scale_Factor",0.9999],PARAMETER["Azimuth",30.28813975277778],PARAMETER["Longitude_Of_Center",24.83333333333333],PARAMETER["Latitude_Of_Center",49.5],PARAMETER["X_Scale",-1.0],PARAMETER["Y_Scale",1.0],PARAMETER["XY_Plane_Rotation",90.0],UNIT["Meter",1.0],AUTHORITY["EPSG",5514]]</WKT>
+        <XOrigin>-33699800</XOrigin>
+        <YOrigin>-33699800</YOrigin>
+        <XYScale>133638764.24698351</XYScale>
+        <ZOrigin>-100000</ZOrigin>
+        <ZScale>10000</ZScale>
+        <MOrigin>-100000</MOrigin>
+        <MScale>10000</MScale>
+        <XYTolerance>0.001</XYTolerance>
+        <ZTolerance>0.001</ZTolerance>
+        <MTolerance>0.001</MTolerance>
+        <HighPrecision>true</HighPrecision>
+        <WKID>102067</WKID>
+        <LatestWKID>5514</LatestWKID>
+      </SpatialReference>
+      <SourceGCPs xsi:type="typens:ArrayOfDouble">
+        <Double>7954.8526321779864</Double>
+        <Double>-6476.200474378762</Double>
+        <Double>258.1156976884231</Double>
+        <Double>-6481.2857971962076</Double>
+        <Double>7950.1647854979383</Double>
+        <Double>-298.11588896904141</Double>
+        <Double>873.85243437525514</Double>
+        <Double>-6480.879961542465</Double>
+        <Double>560.77637360025528</Double>
+        <Double>-302.95609101859463</Double>
+        <Double>261.34244620279787</Double>
+        <Double>-303.15213672956907</Double>
+        <Double>1790.6915787657699</Double>
+        <Double>-6480.2225325930676</Double>
+      </SourceGCPs>
+      <TargetGCPs xsi:type="typens:ArrayOfDouble">
+        <Double>-814775.68786645937</Double>
+        <Double>-1163417.0384244833</Double>
+        <Double>-816653.38040453102</Double>
+        <Double>-1163148.9670790194</Double>
+        <Double>-814561.40219758917</Double>
+        <Double>-1161915.0318891851</Double>
+        <Double>-816503.16557667137</Double>
+        <Double>-1163170.4129494764</Double>
+        <Double>-816363.99215846881</Double>
+        <Double>-1161657.6722392086</Double>
+        <Double>-816439.09966380335</Double>
+        <Double>-1161646.9489566344</Double>
+        <Double>-816277.8431667377</Double>
+        <Double>-1163202.5816825582</Double>
+      </TargetGCPs>
+    </GeodataXform>
+  </Metadata>
+</PAMDataset>
